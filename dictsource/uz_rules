@@ -39,6 +39,7 @@
     ъ    ʼ
     ‘    ʻ  // Replace left single quotation mark to  modifier letter turned comma
     '    ʻ  // apostrophe to modifier letter turned comma
+    -   ~
 
 
 .group a
