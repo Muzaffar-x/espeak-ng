@@ -510,7 +510,11 @@ Translator *SelectTranslator(const char *name)
 			SetCyrillicLetters(tr);
 			tr->langopts.numbers = NUM_DECIMAL_COMMA  | NUM_ALLOW_SPACE | NUM_DFRACTION_2;
 			tr->langopts.max_initial_consonants = 2;
-		} 
+			tr->langopts.max_digits = 33;
+			tr->langopts.param[LOPT_UNPRONOUNCABLE] = 2;
+			tr->langopts.param[LOPT_COMBINE_WORDS] = 2; // allow "mc" to cmbine with the following word
+
+		}
       break;
       
 	case L('a', 'f'):

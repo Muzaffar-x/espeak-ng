@@ -37,7 +37,7 @@ ng  N'e
 _0    n'o:l
 _1    'by*
 _2    'ykky'
-_3    'Utʃ'
+_3    'U|tS'
 _4    t'o*t
 _5    b'eS
 _6    Alt'y
@@ -55,8 +55,17 @@ _8X   s&ks'An
 _9X   toqs'An
 _0C   j'Uz
 _0M1  m'yN
-_0M2  milli'on
-_0M3  milli'ard
+_0M2  mylly'on
+_0M3  mylly'&*d
+_0M4  t*yllyon
+_0M5  kv#&d*&lly'on
+_0M6  kv#yntylly'on
+_0M7  sekstylly'on
+_0M8  septtylly'on
+_0M9  oktylly'on
+_0M10 nonylly'on
+_0M11 detsylly'on
+_0M12 undystylly'on
 
 //special symbols
 _.   nUqt&
@@ -69,7 +78,7 @@ _-   mynUs
 ?   s'o*Aq
 %   f,A'jyz
 &   &mpe*s'&nd
-°   g*&dUs
+°f   gradus||f,&*engejt
 (   dUm&lAq||qAv#Us||AtSyldy
 )   dUm&lAq||qAv#Us||jApyldy
 [   kv#&d*&t||qAv#Us||AtSyldy
@@ -78,9 +87,16 @@ _-   mynUs
 }   f,ygU*&ly||qAv#Us||jApyldy
 
 // foreign words $abbrev
-byd  byj||v#&j||dyj // _^_en $abbrev
-iphone _^_en
+byd  b'yj||v#'&j||d'yj // _^_en $abbrev
+iphone &jf,on
 samsung s&m'sUng
+uzinfocom   uz'ynf,okom
+ictweek &jsytyv#'y:k'
+
+
+
+// pronounce
+
 
 
 // unstressed words
